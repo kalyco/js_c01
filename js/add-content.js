@@ -2,7 +2,7 @@
 // The greeting changes depending on the time of day.
 
 var today = new Date();
-vare hourNow = today.getHours();
+var hourNow = today.getHours();
 var greeting;
 
 if (hourNow > 18) {
