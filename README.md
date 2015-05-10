@@ -1,3 +1,3 @@
-#Javascript and JQuery. 
+#Javascript and JQuery
 
 Chapter 1
