@@ -1,2 +1,3 @@
-# js_c01
-# js_c01
+#Javascript and JQuery
+
+Chapter 1
